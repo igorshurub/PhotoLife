@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Viewing</class>
+ <widget class="QDialog" name="Viewing">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>714</width>
+    <height>493</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>70</y>
+     <width>641</width>
+     <height>291</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>Monke.png</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>123.jpeg</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>BlueMoon.jpg</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Св-во 1</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Св-во 2</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

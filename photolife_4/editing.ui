@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Editing</class>
+ <widget class="QDialog" name="Editing">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>850</width>
+    <height>519</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>60</y>
+     <width>721</width>
+     <height>441</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>123.</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>124</string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>152</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string>Св-во 1</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Св-во 2</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Св-во 3</string>
+    </property>
+   </column>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
